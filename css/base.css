@@ -43,7 +43,7 @@ body {
     border-radius: 50%;
     overflow: hidden;
     width: 100px;
-    height: 70px;
+    height: 100px;
     margin: auto;
     border: 2px solid white
 }
@@ -89,7 +89,7 @@ body {
 
 
 @media (max-width: 767px) { 
-	.jumbotron .page-scroll { width: 100%; right: 0px; height: 50px;}
+	.jumbotron .page-scroll { width: 100%; right: 0px; height: 70px;}
 }
 
 #skills button{
@@ -105,6 +105,6 @@ body {
 }
 
 #work .panel .panel-heading img{
-    height: 80px;
+    height: 50px;
     margin-bottom: 5px;
 }
