@@ -48,7 +48,7 @@ body {
     border: 2px solid white
 }
 .jumbotron .logo img {
-    max-width: 150%
+    max-width: 100%
 }
 
 .jumbotron .btn-primary {
