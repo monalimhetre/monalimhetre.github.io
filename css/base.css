@@ -42,13 +42,13 @@ body {
     background: #532f8c;
     border-radius: 50%;
     overflow: hidden;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin: auto;
     border: 2px solid white
 }
 .jumbotron .logo img {
-    max-width: 100%
+    max-width: 150%
 }
 
 .jumbotron .btn-primary {
@@ -97,8 +97,8 @@ body {
 }
 
 .vertical-center {
-  min-height: 150%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 150vh; /* These two lines are counted as one :-)       */
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
 
   display: flex;
   align-items: center;
