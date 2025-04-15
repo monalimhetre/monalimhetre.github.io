@@ -153,6 +153,10 @@
   border-color: #3498db;
 }
 
+.page-header{
+ color:#4d4dff;
+}
+
 /* Responsive Adjustments */
 @media (max-width: 767px) {
   .navbar .navbar-nav .open .dropdown-menu > .active > a {
