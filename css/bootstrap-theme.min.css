@@ -62,7 +62,7 @@
 
 .btn-danger {
   background-color: #e74c3c;
-  background-image: linear-gradient(to bottom, #e74c3c, #c0392b);
+  background-image: #e74c3c;
 }
 .btn-danger:hover {
   background-color: #c0392b;
