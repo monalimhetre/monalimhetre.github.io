@@ -42,8 +42,8 @@ body {
     background: #532f8c;
     border-radius: 50%;
     overflow: hidden;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin: auto;
     border: 2px solid white
 }
