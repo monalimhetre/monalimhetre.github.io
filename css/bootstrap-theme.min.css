@@ -121,7 +121,7 @@
 
 /* Panels */
 .panel-default > .panel-heading {
-  background-color: #f8f9fa;
+  background-color: linear-gradient(90deg, #a6e3c4,#cdefde);
   border-bottom: 1px solid #ecf0f1;
 }
 .panel-primary > .panel-heading {
