@@ -136,6 +136,9 @@
 .panel-warning > .panel-heading {
   background-color: #cccccc;
 }
+.panel-warning, h3{
+ text-color: #333;
+}
 .panel-danger > .panel-heading {
   background-color: #e74c3c;
 }
