@@ -139,7 +139,10 @@
 .panel-danger > .panel-heading {
   background-color: #e74c3c;
 }
-
+.monali > .btn-monalisa {
+ text-size: 20px;
+ background-color: #2ecc71;
+}
 /* Wells */
 .well {
   background-color: #f8f9fa;
